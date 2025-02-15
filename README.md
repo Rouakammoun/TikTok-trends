@@ -14,15 +14,6 @@ Backend API: Handles data processing and serves trend insights.
 
 User-Friendly Interface: Interactive UI for trend exploration.
 
-Project Structure
-
-TikTok-trends/
-│-- trend-dashboard/       # Dashboard for trend visualization
-│-- my_backend/            # Backend API for processing data
-│-- models/                # Machine learning models for trend prediction
-│-- video_generator/       # Generates video-based insights
-│-- README.md              # Project documentation
-
 Installation
 
 Clone the repository
